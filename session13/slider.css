@@ -5,10 +5,13 @@ body{
 	text-align: center;
 	padding-left: 35px;
 }
+.produce ,h2 ,h4{
+	text-align: left;
+}
 .new{
 	padding-top: 15px;
 	padding-bottom: 10px;
-	
+	text-align: left;
 }
 .footer{
 	padding-top: 15px;
