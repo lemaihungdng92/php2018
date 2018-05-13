@@ -2,11 +2,25 @@ body{
 	width: 90%;
 	padding-top: 15px;
 	padding-bottom: 10px;
-	text-align: center;
+	 
 	padding-left: 35px;
 }
-.produce ,h2 ,h4{
-	text-align: left;
+.produce {
+	
+	background-color: #eeeeee;
+	padding-top: 15px;
+	padding-bottom: 10px;
+
+}
+.col-md-2{
+	background-image: url(content.png);
+}
+.content {
+	
+}
+.sp{
+	text-align: center;
+	margin: auto;
 }
 .new{
 	padding-top: 15px;
