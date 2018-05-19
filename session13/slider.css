@@ -25,6 +25,7 @@ body{
 }
 .col-md-2{
 	background-image: url(content.png);
+	background-repeat: no-repeat;
 }
 .col-md-4{
 	padding-left: 70px;
