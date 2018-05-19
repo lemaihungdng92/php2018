@@ -15,6 +15,9 @@ body{
 .col-md-2{
 	background-image: url(content.png);
 }
+.col-md-4{
+	padding-left: 70px;
+}
 .content {
 	
 }
